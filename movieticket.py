@@ -224,6 +224,7 @@ These are a few of the notebooks related to Machine Learning, including Google's
 name = input("Enter name - ")
 ticket_type = input("Enter ticket type - ").upper()
 no=int(input("Enter number of tickets - "))
+phone = int(input("enter phone no"))
 
 price = 0
 ticket_valid = False
